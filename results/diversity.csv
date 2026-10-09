@@ -1,0 +1,6 @@
+experiment,diversity_score
+baseline,0.33228
+low_lr,0.35291
+high_lr,0.33
+latent_50,0.34477
+batch_128,0.34296
